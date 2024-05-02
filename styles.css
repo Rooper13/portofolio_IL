@@ -1,0 +1,356 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.section1 {
+    width: 1280px;
+    height: 2331px;
+    left: 0;
+    top: 0;
+    position: absolute;
+    background: #074173;
+    border: 1px solid black;
+}
+
+.section2 {
+    width: 1022px;
+    height: 664px;
+    left: 114px;
+    top: 40px;
+    position: absolute;
+}
+
+.section3 {
+    width: 1110px;
+    height: 714px;
+    left: 85px;
+    top: 1517px;
+    position: absolute;
+}
+
+.section4 {
+    width: 1195px;
+    height: 465px;
+    left: 42px;
+    top: 836px;
+    position: absolute;
+}
+
+.section5 {
+    width: 1321px;
+    height: 95px;
+    left: 0;
+    top: 59px;
+    position: absolute;
+}
+
+.name {
+    width: 640.28px;
+    height: 104px;
+    left: 192.37px;
+    top: 15px;
+    position: absolute;
+    text-align: center;
+    color: #5DEBD7;
+    font-size: 40px;
+    font-family: 'Press Start 2P';
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.description {
+    width: 1022px;
+    height: 219px;
+    left: 0;
+    top: 445px;
+    position: absolute;
+    text-align: center;
+    color: #5DEBD7;
+    font-size: 24px;
+    font-family: 'Press Start 2P';
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.about2 {
+    width: 438px;
+    height: 180px;
+    left: 379px;
+    top: 0;
+    position: absolute;
+    text-align: center;
+    color: #5DEBD7;
+    font-size: 24px;
+    font-family: 'Press Start 2P';
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+
+
+
+
+.achievement {
+    width: 242px;
+    height: 52px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    font-family: 'Press Start 2P';
+    font-weight: 400;
+    word-wrap: break-word;
+    left: 901px;
+    top:  278px; 
+
+}
+
+
+.contact2 {
+    width: 170px; 
+    height: 36px; 
+    left: 947px; top: 0px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; font-size: 
+    24px; font-family: 
+    Press Start 2P; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+
+.contact {
+    width: 170px;
+    height: 36px;
+    left: 947px;
+    top: 0;
+}
+
+.faq {
+    width: 228px; 
+    height: 90px; 
+    left: 1093px; top: px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; font-size: 
+    24px; font-family: 
+    Press Start 2P; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+
+.hobby{
+    width: 156px;
+    height: 74px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    font-family: 'Press Start 2P';
+    font-weight: 400;
+    word-wrap: break-word;
+    left: 98px;
+    top: 278px; 
+}
+
+.skills{
+    width: 198px;
+    height: 52px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    font-family: 'Press Start 2P';
+    font-weight: 400;
+    word-wrap: break-word;
+    left: 499px;
+    top: 276px; 
+}
+
+.hobby2 {
+    width: 301px; height: 61px; 
+    left: 32px; 
+    top: 330px; position: absolute; 
+    text-align: center; color: white; 
+    font-size: 24px; 
+    font-family: Press Start 2P; 
+    font-weight: 400; 
+    word-wrap: break-word;
+
+}
+.skill2 {
+    width: 312px; height: 49px; 
+    left: 441px; top: 327px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 24px; 
+    font-family: Press Start 2P; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+
+.achievement2 {
+    width: 321px; height: 120px; 
+    left: 862px; top: 331px; position: absolute; 
+    text-align: center; color: white; font-size: 24px; 
+    font-family: Press Start 2P; 
+    font-weight: 400; word-wrap: break-word
+}
+
+.contact {
+    width: 1121px;
+    height: 714px;
+    left: 74px;
+    top: 1517px;
+    position: absolute;
+}
+
+.contact .section-title {
+    width: 349px;
+    height: 349px;
+    left: 405px;
+    top: 0px;
+    position: absolute;
+    text-align: center;
+    color: #5DEBD7;
+    font-size: 24px;
+    font-family: Press Start 2P;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.contact .description {
+    width: 1083px;
+    height: 122px;
+    left: 38px;
+    top: 76px;
+    position: absolute;
+    text-align: center;
+    color: #5DEBD7;
+    font-size: 20px;
+    font-family: Press Start 2P;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.contact input[type="text"],
+.contact input[type="email"],
+.contact textarea {
+    width: 1080px;
+    height: 55px;
+    left: 11px;
+    position: absolute;
+    background: #1679AB;
+}
+
+.contact input[type="submit"] {
+    width: 95px;
+    height: 27px;
+    left: 518px;
+    top: 671px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    font-family: Press Start 2P;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.home {
+    width: 147px; 
+    height: 47px; 
+    left: 0px; top: 1px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; font-size: 
+    24px; font-family: 
+    Press Start 2P; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+
+.about{
+    width: 150px; 
+    height: 93px; 
+    left: 147px; top: 2px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; font-size: 
+    24px; font-family: 
+    Press Start 2P; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+
+.section-title {
+    width: 349px;
+    height: 349px;
+    left: 405px;
+    top: 0px;
+    position: absolute;
+    text-align: center;
+    color: #5DEBD7;
+    font-size: 24px;
+    font-family: Press Start 2P;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+
+.message12{
+    width: 117px; 
+    height: 32px; left: 
+    11px; top: 402px; position: 
+    absolute; text-align: center; 
+    color: white; font-size: 
+    15px; font-family: Press Start 2P; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+
+.submit23{
+    width: 95px; 
+    height: 27px; 
+    left: 518px; 
+    top: 671px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 15px; 
+    font-family: Press Start 2P; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+
+.email2{
+    width: 79px; height: 30px; 
+    left: 11px; top: 307px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 15px; 
+    font-family: Press Start 2P; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.name23{
+    width: 90px; height: 40px; 
+    left: 0px; top: 226px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; font-size: 15px; 
+    font-family: Press Start 2P; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
